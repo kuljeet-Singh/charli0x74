@@ -12,6 +12,17 @@ Other two reciepts which I have posted are images and I tried to do something di
 
 
 ![wires](https://user-images.githubusercontent.com/43182173/46380395-1671e580-c670-11e8-922f-53fb4e339a4e.PNG)
+## Week 2
+-Proposal was submitted.
+-Started working on Project Schedule. 
+
+
+## Week 1
+-Blinked the LED of Raspberry Pi (Was a nice way to make a comeback to study after a long summer break).
+-Created Github Account.
+-Decided the Address and the micro-controller for the Hardware Project.
+-Started working on proposal.
+
 
 
 
