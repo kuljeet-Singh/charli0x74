@@ -1,5 +1,16 @@
 # CENG 317: CHARLI0x74
+## Week 8[Oct 23,2018]
+- Breadbord Assembly Milestone due.
+
+## Week 7[Oct 16,2018]
+- Showed acquisitions.
+- Watched videoes related to soldering.
+- had discussion in class related to safety.
+- Submitted Pseudo Code assignment on blackboard.
 ## Week 6[Oct 9,2018]
+- Study Day No Class!!!
+- Contacted group members from first semester to discuss Pseudo Code.
+- My sensor and raspberri pi arrived.Ready to show them in class next week.
 
 ## Week 5[Oct 2, 2018]
 ### Proof of Payment
@@ -19,7 +30,7 @@ Other two reciepts which I have posted are images and I tried to do something di
 ![budget](https://user-images.githubusercontent.com/43182173/48017764-29f3ee80-e0fd-11e8-8ee2-915e40812a6e.PNG)
 
 
-- Started collecting abll bills(proof of purchase).
+- Started collecting all bills(proof of purchase).
 ## Week 3[Sept 18, 2018]
 - Ghantt Chart was submitted.
 
