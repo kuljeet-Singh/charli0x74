@@ -2,12 +2,12 @@
 ## Week 9[Oct 30,2018]
 - Gerber file Creation
 ![breadboard](https://user-images.githubusercontent.com/43182173/48020545-26b03100-e104-11e8-933d-f9fda5b57ac0.jpeg)
-- PCB design Due.
+- PCB design Due.  
 
 - PCB soldering to be done by next week.
 #### Progress Report:
--Used fritzing to design my PCB.TH eissue with fritzing is that it does not include all the senors. Hence some sensors are not there hence PCB desiginig becomes tougher.
--There are two ways to resolve this issue either use header pins rather than using sensor or download it from github. Just google the name of sensor followed by word "fritzing". Download the file and open it with Fritzing.Sensor will show up.
+-Used fritzing to design my PCB.TH eissue with fritzing is that it does not include all the senors. Hence some sensors are not there hence PCB desiginig becomes tougher.  
+-There are two ways to resolve this issue either use header pins rather than using sensor or download it from github. Just google the name of sensor followed by word "fritzing". Download the file and open it with Fritzing.Sensor will show up.  
 -No additional cost added. 
 
 ## Week 8[Oct 23,2018]
