@@ -27,12 +27,12 @@ Other two reciepts which I have posted are images and I tried to do something di
 ![wires](https://user-images.githubusercontent.com/43182173/46380395-1671e580-c670-11e8-922f-53fb4e339a4e.PNG)
 ## Week 4[2Sept 5,2018]
 - Budget was due.
-![budget](https://user-images.githubusercontent.com/43182173/48017764-29f3ee80-e0fd-11e8-8ee2-915e40812a6e.PNG)
 
 
 - Started collecting all bills(proof of purchase).
 ## Week 3[Sept 18, 2018]
 - Ghantt Chart was submitted.
+![budget](https://user-images.githubusercontent.com/43182173/48017764-29f3ee80-e0fd-11e8-8ee2-915e40812a6e.PNG)
 
 ## Week 2[Sept 11, 2018]
 - Proposal was submitted.  
