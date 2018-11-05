@@ -4,7 +4,7 @@
 ## Week 8[Oct 23,2018]
 - Breadbord Assembly Milestone due.
 - Micro-controller and LED matrix were soldered together and embedded on breadboard later.
-- one thing which
+- One thing which troubled me was the sides of micro-controller that is which side was supposed to go in breadbord and which was sto be soldered with LED's. Then I reffered to online documentaion on adafruit and was abkle to resolve the problem. No additional cost added.
 
 ![img_20181023_170143](https://user-images.githubusercontent.com/43182173/48018976-4ba2a500-e100-11e8-9112-ad22c8345b55.jpg)
 
