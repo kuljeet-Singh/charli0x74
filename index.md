@@ -3,6 +3,7 @@
 - Gerber file Creation
 ![breadboard](https://user-images.githubusercontent.com/43182173/48020545-26b03100-e104-11e8-933d-f9fda5b57ac0.jpeg)
 - PCB design Due. 
+![capture](https://user-images.githubusercontent.com/43182173/48023208-1c456580-e10b-11e8-8c48-573aa4a9189a.PNG)
 
 - PCB soldering to be done by next week.
 #### Progress Report:
