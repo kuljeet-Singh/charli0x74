@@ -1,5 +1,5 @@
 # CENG 317: CHARLI0x74
-## Week 5[October 2, 2018]
+## Week 5[Oct 2, 2018]
 ### Proof of Payment
 #### Reciept of Raspberry pi
 Two Groups ordered Raspberry pies together hence saving lot of money from shipping. 
@@ -12,12 +12,15 @@ Other two reciepts which I have posted are images and I tried to do something di
 
 
 ![wires](https://user-images.githubusercontent.com/43182173/46380395-1671e580-c670-11e8-922f-53fb4e339a4e.PNG)
-## Week 2
+## Week 3[Sept 18, 2018]
+- Ghantt Chart was submitted
+
+## Week 2[Sept 11, 2018]
 -Proposal was submitted.  
 -Started working on Project Schedule. 
 
 
-## Week 1
+## Week 1[Sept 4, 2018]
 -Blinked the LED of Raspberry Pi (Was a nice way to make a comeback to study after a long summer break).<br/>
 -Created Github Account.<br>
 -Decided the Address and the micro-controller for the Hardware Project.  
