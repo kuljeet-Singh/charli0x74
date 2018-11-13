@@ -1,5 +1,9 @@
 # CENG 317: CHARLI0x74
-## Week 10[Oct 6,2018]
+## Week 11[Nov 13,2018 ]
+#### Progress Report
+-Generally Python reduces one's workload exponentially, Hence everyone should try to code their program in Python. <br>-But most of the codes or libraries available on internet & on various website are written in either C or C++ for Arduino as thier circuit board.<br>-After 4 hours of reseach when I found a way, how to run Arduino **sketches**(code) on Raspberry pi. I attched the URL for the specific video which could solve this issue.<br>        https://www.youtube.com/watch?v=lZvhtfUlY8Y <br>   
+
+## Week 10[Nov 6,2018]
 #### Progress Report
 -My earlier PCB did'nt work(or did'n fit). Actually the files which I downloaded from github(related to my sensor for fritzing) were not *appropriate*.<br> 
 -I was unable flip my sensor hence when it came to soldering the connection went wrong, Hence I redesigned my PCB with logically *incorrect* but *physically* correct port connections.<br>
