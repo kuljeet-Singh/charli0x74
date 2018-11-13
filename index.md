@@ -24,7 +24,7 @@
 
 ## Week 9[Oct 30,2018]
 - Gerber file Creation
- 
+ ![harware_procedure](https://user-images.githubusercontent.com/43182173/48429921-191a2d00-e73c-11e8-9369-4110edf518c8.jpg)
 
 ![capture](https://user-images.githubusercontent.com/43182173/48023296-5d3d7a00-e10b-11e8-9ed8-d128256116b9.jpeg)
 
