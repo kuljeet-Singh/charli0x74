@@ -5,9 +5,9 @@
 ![capture](https://user-images.githubusercontent.com/43182173/48428858-e1aa8100-e739-11e8-8a5b-9bb14a489ca2.jpeg)<br>
 -Once when I was able to power-up my circuit or Light up my LEDs than I started  experimenting making new shapes etc.<br>
 - Circuit Board powered-up.<br>
-![whatsapp image 2018-11-13 at 7 47 03 am](https://user-images.githubusercontent.com/43182173/48429231-b8d6bb80-e73a-11e8-8340-47275f7ae17f.jpeg)
-![whatsapp image 2018-11-13 at 7 46 05 am](https://user-images.githubusercontent.com/43182173/48429348-f1769500-e73a-11e8-9fd5-7c5f8c1099d1.jpeg)
-
+![whatsapp image 2018-11-13 at 7 47 03 am](https://user-images.githubusercontent.com/43182173/48429231-b8d6bb80-e73a-11e8-8340-47275f7ae17f.jpeg)<br>
+![whatsapp image 2018-11-13 at 7 46 05 am](https://user-images.githubusercontent.com/43182173/48429348-f1769500-e73a-11e8-9fd5-7c5f8c1099d1.jpeg)<br>
+![whatsapp image 2018-11-13 at 7 47 48 am](https://user-images.githubusercontent.com/43182173/48429350-f2a7c200-e73a-11e8-88fc-a43fb4c2598e.jpeg)
 
 
 ## Week 10[Nov 6,2018]
