@@ -1,4 +1,7 @@
 # CENG 317: CHARLI0x74
+## Week 10[Oct 6,2018]
+- Soldering Milestone Due
+
 ## Week 9[Oct 30,2018]
 - Gerber file Creation
 ![breadboard](https://user-images.githubusercontent.com/43182173/48020545-26b03100-e104-11e8-933d-f9fda5b57ac0.jpeg)
@@ -8,7 +11,7 @@
 
 - PCB soldering to be done by next week.
 #### Progress Report:
--Used fritzing to design my PCB.TH eissue with fritzing is that it does not include all the senors. Hence some sensors are not there hence PCB desiginig becomes tougher.  
+-Used fritzing to design my PCB.The issue with fritzing is that it does not include all the senors. Hence some sensors are not there hence PCB desiginig becomes tougher.  
 -There are two ways to resolve this issue either use header pins rather than using sensor or download it from github. Just google the name of sensor followed by word "fritzing". Download the file and open it with Fritzing.Sensor will show up.  
 -No additional cost added. 
 
