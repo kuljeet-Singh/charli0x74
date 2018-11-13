@@ -1,16 +1,12 @@
 # CENG 317: CHARLI0x74
 ## Week 10[Oct 6,2018]
+#### Progress Report
+-My earlier PCB did'nt work(or did'n fit). Actually the files which I downloaded from github(related to my sensor for fritzing) were not *appropriate*.<br> 
+-I was unable flip my sensor hence when it came to soldering the connection went wrong, Hence I redesigned my PCB with logically *incorrect* but *physically* correct port connections.<br>
 - Soldering Milestone Due
 ![b9fac887-361e-4dee-a1a9-3df3233d3f2d](https://user-images.githubusercontent.com/43182173/48424640-08b08500-e731-11e8-9114-38e08344ab7c.jpg)
 - another Glimpse
 ![a834d736-2bc3-45d3-9e08-4a3182f34d84](https://user-images.githubusercontent.com/43182173/48424648-0b12df00-e731-11e8-9ed0-5eba3fef4311.jpg)
-
-#### Progress Report
--My earlier PCB did'nt work(or did'n fit). Actually the files which I downloaded from github(related to my sensor for fritzing) were not *appropriate*. 
--I was unable flip my sensor hence when it came to soldering the connection went wrong, Hence I redesigned my PCB with logically *incorrect* but *physically* correct port connections.
-
-
-
 
 ## Week 9[Oct 30,2018]
 - Gerber file Creation
