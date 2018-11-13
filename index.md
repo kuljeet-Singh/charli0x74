@@ -1,6 +1,8 @@
 # CENG 317: CHARLI0x74
 ## Week 10[Oct 6,2018]
 - Soldering Milestone Due
+![b9fac887-361e-4dee-a1a9-3df3233d3f2d](https://user-images.githubusercontent.com/43182173/48424640-08b08500-e731-11e8-9114-38e08344ab7c.jpg)
+
 
 ## Week 9[Oct 30,2018]
 - Gerber file Creation
