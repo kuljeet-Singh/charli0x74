@@ -24,8 +24,7 @@
 
 ## Week 9[Oct 30,2018]
 - Gerber file Creation
-![breadboard](https://user-images.githubusercontent.com/43182173/48020545-26b03100-e104-11e8-933d-f9fda5b57ac0.jpeg)
-- PCB design Due. 
+ 
 
 ![capture](https://user-images.githubusercontent.com/43182173/48023296-5d3d7a00-e10b-11e8-9ed8-d128256116b9.jpeg)
 
