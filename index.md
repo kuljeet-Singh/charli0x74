@@ -1,6 +1,8 @@
 # CENG 317: CHARLI0x74
 ## Week 12[Nov 20,2018 ]
-- Case design was due.alll parts are securely attached, enclosed, accessible.
+- Case design was due. Designed case encloses the raspberry pi and PCB securely and all required parts are properly accessible.<br>
+![capture](https://user-images.githubusercontent.com/43182173/48807092-70933c80-ecea-11e8-80fd-08defd91100c.PNG)
+
 
 ## Week 11[Nov 13,2018 ]
 #### Progress Report
