@@ -1,4 +1,7 @@
 # CENG 317: CHARLI0x74
+## Week 12[Nov 20,2018 ]
+- Case design was due.alll parts are securely attached, enclosed, accessible.
+
 ## Week 11[Nov 13,2018 ]
 #### Progress Report
 -Generally Python reduces one's workload exponentially, Hence everyone should try to code their program in Python. <br>-But most of the codes or libraries available on internet & on various website are written in either C or C++ for Arduino as thier circuit board.<br>-After some reseach when I found a way, how to run Arduino **sketches**(code) on Raspberry pi. I attched the URL for the specific video which could solve this issue.<br>        https://www.youtube.com/watch?v=lZvhtfUlY8Y <br>-In this video the programmer is exportng sketches as binary files and that binary files are run on raspberry pi.<br>-The file below is shows some commands which helped me as Python user to make my LEDs working.However a detailed file named as **Commands.docx** can be found in **Documents Folder** in this repository.<br>
