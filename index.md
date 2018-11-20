@@ -3,6 +3,8 @@
 - Case design was due. Designed case encloses the raspberry pi and PCB securely and all required parts are properly accessible.<br>
 ![capture](https://user-images.githubusercontent.com/43182173/48807092-70933c80-ecea-11e8-80fd-08defd91100c.PNG)
 
+- Coraldraw preview of case:
+
 
 ## Week 11[Nov 13,2018 ]
 #### Progress Report
