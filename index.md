@@ -2,7 +2,7 @@
 ## Week 13[Nov 27,2018 ]
 - Presentaions were due.
 - Half of the class presented today, while the rest will be doing the same next week including me.
--[LEDCharliePlex driver.pptx](https://github.com/kuljeet-Singh/charli0x74/files/2626109/LEDCharliePlex.driver.pptx)
+- [LEDCharliePlex driver.pptx](https://github.com/kuljeet-Singh/charli0x74/files/2626109/LEDCharliePlex.driver.pptx)
 ## Week 12[Nov 20,2018 ]
 - Case design was due. Designed case encloses the raspberry pi and PCB securely and all required parts are properly accessible.<br>
 ![capture](https://user-images.githubusercontent.com/43182173/48807092-70933c80-ecea-11e8-80fd-08defd91100c.PNG)
