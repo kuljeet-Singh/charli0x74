@@ -28,9 +28,8 @@
 -Fortunately even after this much of choas no additional cost added. 
 
 - Soldering Milestone Due<br>
-![b9fac887-361e-4dee-a1a9-3df3233d3f2d](https://user-images.githubusercontent.com/43182173/48424640-08b08500-e731-11e8-9114-38e08344ab7c.jpg)
-- Another Glimpse<br>
-![a834d736-2bc3-45d3-9e08-4a3182f34d84](https://user-images.githubusercontent.com/43182173/48424648-0b12df00-e731-11e8-9ed0-5eba3fef4311.jpg)
+![capture1](https://user-images.githubusercontent.com/43182173/49173604-317c7100-f312-11e8-91da-767aa09e6583.PNG)
+
 
 ## Week 9[Oct 30,2018]
 - Gerber file Creation<br>
