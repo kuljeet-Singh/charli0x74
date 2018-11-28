@@ -1,6 +1,6 @@
 # CENG 317: CHARLI0x74
 ## Week 13[Nov 27,2018 ]
-- [my presentaiom](https://github.com/kuljeet-Singh/charli0x74/blob/master/LEDCharliePlex%20driver.pptx)
+- Presentaions[LEDCharliePlex driver (1).pptx](https://github.com/kuljeet-Singh/charli0x74/files/2626100/LEDCharliePlex.driver.1.pptx) were due.
 - Half of the class presented today, while the rest will be doing the same next week including me.
 
 ## Week 12[Nov 20,2018 ]
