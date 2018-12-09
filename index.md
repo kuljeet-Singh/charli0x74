@@ -1,7 +1,9 @@
 # CENG 317: CHARLI0x74
 
 ## Table of Contents
+
 1.[Week1](#Week 1)
+
 2. 
 3. 
 4. 
