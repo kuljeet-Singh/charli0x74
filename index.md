@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1.[Week1](#Week 1)
+1.[Week1](#week 1[Sept 4, 2018])
 
 2. 
 3. 
