@@ -1,23 +1,5 @@
 # CENG 317: CHARLI0x74
 
-## Table of Contents
-
-1.[Week1](#week 1[Sept 4, 2018])
-
-2. 
-3. 
-4. 
-5. 
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-
-
 ## Week 13[Nov 27,2018 ]
 - Presentaions were due.
 - Half of the class presented today, while the rest will be doing the same next week including me.
