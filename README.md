@@ -7,7 +7,7 @@ you.
 ![capture](https://user-images.githubusercontent.com/43182173/49830998-c21a6e80-fd60-11e8-964e-589c806853c4.PNG)
 
 ## Budget
-Approximate budget required for this project is $250. Bills can be seen [here] (https://github.com/kuljeet-Singh/charli0x74/tree/master/Documents/INVOICES)..Since all these sensors( or effectors)were ordered in gorups,we saved a good amount of money. If so, you should be ready to spend more money!
+Approximate budget required for this project is $250. Bills can be seen [here](https://github.com/kuljeet-Singh/charli0x74/tree/master/Documents/INVOICES). Since all these sensors( or effectors)were ordered in gorups,we saved a good amount of money. If so, you should be ready to spend more money!
 ![capture2](https://user-images.githubusercontent.com/43182173/49831390-c85d1a80-fd61-11e8-996f-b08adfee345e.PNG)
 
 ## Time Commitment
