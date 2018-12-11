@@ -40,9 +40,9 @@ The major steps in the process are:
 
 ## Mechanical Assembly
 
-### Raspberry Pi initiasation and Image creation
+## Raspberry Pi initiasation and Image creation
 
 
-fghjkfgdzjhd
+fghjkfgdzjhdijiooihyhkhhhhhju
 
 
