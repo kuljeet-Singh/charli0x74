@@ -23,7 +23,9 @@ Approximate budget required for this project is $250. Bills can be seen [here](h
 ## Time Commitment
 This project can be completed in 3 days.(Required all parts and neccessary tools are already in hand).Sometimes it may take only 2 days where as sometimes it takes more than a month to ship the product.Generally, it should take around 7-8 hours to finish (taking into account that the PCB has been printed effectively, generally the PCB should take about a half-day to be printed).
 The major steps in the process are:
-- [Raspberry Pi and Noops installation](#Raspberry Pi initiasation and Image creation)  
+
+- [Raspberry Pi and Noops installation](#Raspberry Pi initiasation and Image creation)
+
 - Verifiaction and Other installations (2 Hours)<br>
 - Soldering (1.5 Hours)<br>
 - Case printing  (30 mins)<br>
