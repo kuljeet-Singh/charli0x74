@@ -143,6 +143,8 @@ Once everything is finished we need to protect our newly developed device. Hence
 
 ## Final Testing
 
+* Personal testing
+PowerUp the Raspberry Pi. Go to terminal check for I2C detect again as we did earlier. If detected run the "board.py" file. And matrix should light up.
 
 
 
