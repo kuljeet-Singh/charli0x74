@@ -56,6 +56,7 @@ The major steps in the process are:
 - SDA to sensor SDA
 <br>
 The connections should look like this:
+
 ![captur2e](https://user-images.githubusercontent.com/43182173/49890302-c5b9fe00-fe11-11e8-81bb-9fd9f096e119.PNG)
 
 2) Checking for I2C address:
