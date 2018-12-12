@@ -25,7 +25,7 @@ This project can be completed in 3 days.(Required all parts and neccessary tools
 The major steps in the process are:
 
 
-- [Raspberry Pi and Noops installation](#Raspberry Pi initiasation and Image creation)
+- [Raspberry Pi and Noops installation](#Raspberry Pi initialisation and Image creation)
 
 
 - Verifiaction and Other installations (2 Hours)<br>
@@ -40,7 +40,7 @@ The major steps in the process are:
 
 ## Mechanical Assembly
 
-## Raspberry Pi initiasation and Image creation
+# Raspberry Pi initialisation and Image creation
 
 
 fghjkfgdzjhdijiooihyhkhhhhhju
