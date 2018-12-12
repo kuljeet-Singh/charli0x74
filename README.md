@@ -42,5 +42,12 @@ The major steps in the process are:
 
 ### Raspberry Pi initialisation and Image creation
 
+- Format the [micro-SD card](https://www.raspberrypi.org/learning/software-guide/)
+- Download the latest version of [**NOOBS** OS](https://www.raspberrypi.org/downloads/noobs/) 
+- Downloading the software takes a while. Click on the link for step by step [video](https://www.raspberrypi.org/help/videos/#noobs-setup) to flash the image of OS to your micro-SD card.
+- When downloading is done connect your Raspberry Pi to a screen and plug amouse and keyboard to it.
+- Once setup is done, just enable I2C,VNC and SSH interfaces. This can be done by selecting *Preference* from *Start Menu* and then clicking *Raspberry Pi configuration* and then select *Interfaces* and now set I2C, SSH and VNC to enable mode.
 
+### Mechanical Assembly
 
+-
