@@ -28,7 +28,7 @@ The major steps in the process are:
 - [Raspberry Pi and Noops installation](#Raspberry-Pi-initialisation-and-Image-creation) (2.5 hours)
 
 
-- [Other Installations, Connections and Verifications](#Other-Installations-and-Verifications) (2 Hours)<br>
+- [Other Installations, Connections and Verifications](#Other-Installations-and-Verifications) (2 Hours)
 
 - [Soldering](#Soldering) (1.5 Hours)<br>
 
@@ -54,6 +54,7 @@ The major steps in the process are:
 - GND to sensor GND
 - SCL to sensor SCL
 - SDA to sensor SDA
+<br>
 The connections should look like this:
 ![captur2e](https://user-images.githubusercontent.com/43182173/49890302-c5b9fe00-fe11-11e8-81bb-9fd9f096e119.PNG)
 
