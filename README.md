@@ -102,9 +102,9 @@ It will give an output like this:
 <br>
 Now for some fun! You can set any of the LED pixels using the pixel function. This function takes the following
 parameters:<br>
-X position - The location of the horizontal / X pixel position.<br>
-Y position - The location of the vertical / Y pixel position.<br>
-Intensity - This is a value from 0 to 255 which specifies how bright the pixel should be, 0 is off and 255 is
+- X position - The location of the horizontal / X pixel position.<br>
+- Y position - The location of the vertical / Y pixel position.<br>
+- Intensity - This is a value from 0 to 255 which specifies how bright the pixel should be, 0 is off and 255 is
 maximum brightness. Use an in-between value to show a less bright pixel.<br>
 
 ```
@@ -112,7 +112,18 @@ display.pixel(0,0,255)
 ```
 ![capture8](https://user-images.githubusercontent.com/43182173/49893699-0ddd1e80-fe1a-11e8-9ae9-0cd172238847.PNG)
 
+Frame number - This is the frame number to make the active frame for display or drawing. There are 8 frames
+total, 0 through 7.<br>
+Show - An optional boolean that defaults to True and specifies if the frame should be immediately displayed
+(True) or just made active so that pixel and fill commands draw on it but it's not yet shown.<br>
+For example to clear frame 1 and draw a few pixels on it, then display it you can run:<br>
+
+```
+display.frame(1)
+```
+A full sample code can be downloaded [here](https://github.com/kuljeet-Singh/charli0x74/blob/master/board.py)
 ### Soldering
+
 1) Soldering the LED's matrix and driver **together**. This is required before any further step.
 
 ![1](https://user-images.githubusercontent.com/43182173/49889616-fdc04180-fe0f-11e8-9232-1da6752eef19.png)
