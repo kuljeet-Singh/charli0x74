@@ -28,7 +28,7 @@ The major steps in the process are:
 - [Raspberry Pi and Noops installation](#Raspberry-Pi-initialisation-and-Image-creation) (2.5 hours)
 
 
-- [Other Installations, Connections and Verifications](#Other-Installations-and-Verifications) (2 Hours)
+- [Other Installations, Connections and Verifications](#Other-Installations,-Connections-and-Verifications) (2 Hours)<br>
 
 - [Soldering](#Soldering) (1.5 Hours)<br>
 
@@ -48,7 +48,7 @@ The major steps in the process are:
 - When downloading is done connect your Raspberry Pi to a screen and plug amouse and keyboard to it.
 - Once setup is done, just enable I2C,VNC and SSH interfaces. This can be done by selecting *Preference* from *Start Menu* and then clicking *Raspberry Pi configuration* and then select *Interfaces* and now set I2C, SSH and VNC to enable mode.
 
-### Other Installations and Verifications
+### Other Installations, Connections and Verifications
 1) Here's the Raspberry Pi wired to with I2C:  
 - 3V3 to sensor VIN
 - GND to sensor GND
@@ -66,6 +66,8 @@ sudo i2c detect -y 1
 
 If this address is not visible check connections again. 
 ![capture4](https://user-images.githubusercontent.com/43182173/49890633-8f30b300-fe12-11e8-9b6a-38004896c174.PNG)
+
+Once I2C is detected we are ready for next step.<br>Now intall and update python libraries on Raspberry Pi. You can obtain a file providing step to step assistance [here](https://github.com/kuljeet-Singh/charli0x74/blob/master/Python%20Files.docx) 
 
 ### Soldering
 1) Soldering the LED's matrix and driver **together**. This is required before any further step.
