@@ -28,7 +28,7 @@ The major steps in the process are:
 - [Raspberry Pi and Noops installation](#Raspberry-Pi-initialisation-and-Image-creation) (2.5 hours)
 
 
-- [Other Installations, Connections and Verifications](#Other-Installations-Connections-and-Verifications) (2 Hours)<br>
+- [Other Installations, Connections and Verifications](#Other-Installations-Connections-and-PowerUp) (2 Hours)<br>
 
 - [Soldering](#Soldering) (1.5 Hours)<br>
 
@@ -46,7 +46,7 @@ The major steps in the process are:
 - When downloading is done connect your Raspberry Pi to a screen and plug amouse and keyboard to it.
 - Once setup is done, just enable I2C,VNC and SSH interfaces. This can be done by selecting *Preference* from *Start Menu* and then clicking *Raspberry Pi configuration* and then select *Interfaces* and now set I2C, SSH and VNC to enable mode.
 
-### Other Installations Connections and Verifications
+### Other Installations Connections and PowerUp
 1) Here's the Raspberry Pi wired to with I2C:  
 - 3V3 to sensor VIN
 - GND to sensor GND
@@ -143,8 +143,12 @@ Once everything is finished we need to protect our newly developed device. Hence
 
 ## Final Testing
 
-* Personal testing
-PowerUp the Raspberry Pi. Go to terminal check for I2C detect again as we did earlier. If detected run the "board.py" file. And matrix should light up.
+* Personal Testing <br>
+PowerUp the Raspberry Pi. Go to terminal check for I2C detect again as we did earlier.<br>If detected run the "board.py" file. And matrix should light up.<br>If not, check that all connctions are tightly made and "VIAs" are properly soldered.
+
+* Production Testing <br>
+Since soldering and PCB desiging are major causes for errors, when they will be done on industrial skale with high professional skills adavannced machines I think it will eliminates a lage probability of error.<br> One out every 100 devices should be checked at personal level.
+
 
 
 
