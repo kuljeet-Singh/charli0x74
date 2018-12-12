@@ -32,9 +32,9 @@ The major steps in the process are:
 
 - [Soldering](#Soldering) (1.5 Hours)<br>
 
-- Case printing and Compiling everything into one project(#Case-Printing)  (1.30 hours)<br>
+- [Case printing and Compiling everything into one project](#Case-Printing)  (1.30 hours)<br>
 
-- Final Test (10 mins)
+- [Final Test](#Final-Testing) (10 mins)
 
 ## Mechanical Assembly
 
@@ -121,7 +121,7 @@ For example to clear frame 1 and draw a few pixels on it, then display it you ca
 display.frame(1)
 ```
 A full sample code can be downloaded [here](https://github.com/kuljeet-Singh/charli0x74/blob/master/board.py)
-### Soldering
+## Soldering
 
 1) Soldering the LED's matrix and driver **together**. This is required before any further step.
 
@@ -136,11 +136,12 @@ You can download [Fritzing](https://github.com/kuljeet-Singh/charli0x74/blob/mas
 The final look of soldered PCB attached to Raspberry Pi with LED matrix connected to it looks like this
 ![49173604-317c7100-f312-11e8-91da-767aa09e6583](https://user-images.githubusercontent.com/43182173/49895428-62829880-fe1e-11e8-9d87-9d2515fd64d9.PNG)
 
-### Case Printing
+## Case Printing
 
 Once everything is finished we need to protect our newly developed device. Hence a case is required. [CoralDraw files](https://github.com/kuljeet-Singh/charli0x74/blob/master/PiCase.cdr) can be used to print a case. Finished case looks quite protected and beautiful.
 ![48807092-70933c80-ecea-11e8-80fd-08defd91100c](https://user-images.githubusercontent.com/43182173/49895861-a629d200-fe1f-11e8-8c22-c7138033fd48.PNG)
 
+## Final Testing
 
 
 
