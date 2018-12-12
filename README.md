@@ -30,7 +30,7 @@ The major steps in the process are:
 
 - [Other Installations](#) (2 Hours)<br>
 
-- Soldering (1.5 Hours)<br>
+- [Soldering](#Soldering) (1.5 Hours)<br>
 
 - Case printing  (30 mins)<br>
 
@@ -49,9 +49,11 @@ The major steps in the process are:
 - Once setup is done, just enable I2C,VNC and SSH interfaces. This can be done by selecting *Preference* from *Start Menu* and then clicking *Raspberry Pi configuration* and then select *Interfaces* and now set I2C, SSH and VNC to enable mode.
 
 ### Soldering
-Soldering the LED's matrix and driver together. This is required before any further step.
+Soldering the LED's matrix and driver **together**. This is required before any further step.
 
 ![1](https://user-images.githubusercontent.com/43182173/49889616-fdc04180-fe0f-11e8-9232-1da6752eef19.png)
+
+
 
 
 
