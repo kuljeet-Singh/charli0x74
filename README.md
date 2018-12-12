@@ -5,6 +5,8 @@ the ability to PWM each individual LED in a 16x9 grid so you can have beautiful 
 pin twiddling. Simply tell the chip which LED on the grid you want lit, and what brightness and it's all taken care of for
 you. <br>
 
+![capt](https://user-images.githubusercontent.com/43182173/49897304-b774dd80-fe23-11e8-840e-84b91d737713.PNG)
+
 
 
 The IS31FL3731 is a nice little chip - it can use 2.7-5.5V power and logic so its flexible for use with any microcontroller.
