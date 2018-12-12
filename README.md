@@ -48,8 +48,24 @@ The major steps in the process are:
 - When downloading is done connect your Raspberry Pi to a screen and plug amouse and keyboard to it.
 - Once setup is done, just enable I2C,VNC and SSH interfaces. This can be done by selecting *Preference* from *Start Menu* and then clicking *Raspberry Pi configuration* and then select *Interfaces* and now set I2C, SSH and VNC to enable mode.
 
+### Other Installations, Connections and Verifications
+1) Here's the Raspberry Pi wired to with I2C:  
+- 3V3 to sensor VIN
+- GND to sensor GND
+- SCL to sensor SCL
+- SDA to sensor SDA
+The connections should look like this:
+![captur2e](https://user-images.githubusercontent.com/43182173/49890302-c5b9fe00-fe11-11e8-81bb-9fd9f096e119.PNG)
+
+2) Checking for I2C address:
+
+```
+sudo i2c detect -y 1
+```
+![capture4](https://user-images.githubusercontent.com/43182173/49890633-8f30b300-fe12-11e8-9b6a-38004896c174.PNG)
+
 ### Soldering
-Soldering the LED's matrix and driver **together**. This is required before any further step.
+1) Soldering the LED's matrix and driver **together**. This is required before any further step.
 
 ![1](https://user-images.githubusercontent.com/43182173/49889616-fdc04180-fe0f-11e8-9232-1da6752eef19.png)
 
