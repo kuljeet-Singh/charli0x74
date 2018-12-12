@@ -134,6 +134,10 @@ You can download [Fritzing](https://github.com/kuljeet-Singh/charli0x74/blob/mas
 
 ![capture9](https://user-images.githubusercontent.com/43182173/49895372-3ff07f80-fe1e-11e8-8804-6ea9d04d8837.PNG)
 
+The final look of soldered PCB attached to Raspberry Pi with LED matrix connected to it looks like this
+![49173604-317c7100-f312-11e8-91da-767aa09e6583](https://user-images.githubusercontent.com/43182173/49895428-62829880-fe1e-11e8-9d87-9d2515fd64d9.PNG)
+
+
 
 
 
