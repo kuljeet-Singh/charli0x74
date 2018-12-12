@@ -70,6 +70,48 @@ If this address is not visible check connections again.
 
 Once I2C is detected we are ready for next step.<br>Now intall and update python libraries on Raspberry Pi. You can obtain a file providing step to step assistance [here](https://github.com/kuljeet-Singh/charli0x74/blob/master/Python%20Files.docx) 
 
+<br>
+
+Once its all done now run athe following command:
+
+```
+sudo pip3 install adafruit-circuitpython-is31fl3731
+```
+<br>
+
+Now create a new file using nano editor by name it  as a ".py" file as you you did earlier and write following code into it:
+
+```
+import board
+import busio
+import adafruit_is31fl3731
+display = adafruit_is31fl3731.Matrix(i2c)
+```
+When the display initializes it will go through and clear each frame (there are 8 frames total) of the display. You might
+see the display momentarily flash and then turn off to a clear no pixel lit image.<br>
+You can control all of the board's pixels using the fill function. Send to this function a value from 0 to 255 where 0 is
+every LED pixel turned off and 255 is every LED pixel turned on to maximum brightness. For example to set all the
+pixels to half their brightness run:
+
+```
+display.fill(127)
+```
+It will give an output like this:
+![capture7](https://user-images.githubusercontent.com/43182173/49893545-acb54b00-fe19-11e8-966f-d723d20c216e.PNG)
+
+<br>
+Now for some fun! You can set any of the LED pixels using the pixel function. This function takes the following
+parameters:<br>
+X position - The location of the horizontal / X pixel position.<br>
+Y position - The location of the vertical / Y pixel position.<br>
+Intensity - This is a value from 0 to 255 which specifies how bright the pixel should be, 0 is off and 255 is
+maximum brightness. Use an in-between value to show a less bright pixel.<br>
+
+```
+display.pixel(0,0,255)
+```
+![capture8](https://user-images.githubusercontent.com/43182173/49893699-0ddd1e80-fe1a-11e8-9ae9-0cd172238847.PNG)
+
 ### Soldering
 1) Soldering the LED's matrix and driver **together**. This is required before any further step.
 
