@@ -28,7 +28,7 @@ The major steps in the process are:
 - [Raspberry Pi and Noops installation](#Raspberry-Pi-initialisation-and-Image-creation) (2.5 hours)
 
 
-- [Other Installations](#) (2 Hours)<br>
+- [Other Installations, Connections and Verifications](#Other-Installations,-Connections-and-Verifications) (2 Hours)<br>
 
 - [Soldering](#Soldering) (1.5 Hours)<br>
 
@@ -62,6 +62,8 @@ The connections should look like this:
 ```
 sudo i2c detect -y 1
 ```
+
+If this address is not visible check connections again. 
 ![capture4](https://user-images.githubusercontent.com/43182173/49890633-8f30b300-fe12-11e8-9b6a-38004896c174.PNG)
 
 ### Soldering
