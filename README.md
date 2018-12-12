@@ -96,7 +96,8 @@ pixels to half their brightness run:
 ```
 display.fill(127)
 ```
-It will give an output like this:
+It will give an output like this
+<br>
 ![capture7](https://user-images.githubusercontent.com/43182173/49893545-acb54b00-fe19-11e8-966f-d723d20c216e.PNG)
 
 <br>
