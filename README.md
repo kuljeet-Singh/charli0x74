@@ -128,6 +128,15 @@ A full sample code can be downloaded [here](https://github.com/kuljeet-Singh/cha
 
 ![1](https://user-images.githubusercontent.com/43182173/49889616-fdc04180-fe0f-11e8-9232-1da6752eef19.png)
 
+2) PCB Design and Soldering
+
+You can download [Fritzing](https://github.com/kuljeet-Singh/charli0x74/blob/master/PCB.fzz) and [Gerber Files](https://github.com/kuljeet-Singh/charli0x74/tree/master/GerberFiles) and it should look like this:
+
+![capture9](https://user-images.githubusercontent.com/43182173/49895372-3ff07f80-fe1e-11e8-8804-6ea9d04d8837.PNG)
+
+
+
+
 
 
 
